@@ -4,7 +4,7 @@ Como meu primeiro projeto pro portfólio, resolvi criar essa calculadora.
 
 Características da calculadora:
 - 6 operações:
-  - adição, subtração, multiplicação, divisão, potência e raíz quadrada
+  - adição, subtração, multiplicação, divisão, potência e raiz quadrada
 - Linguagem: Python
 - Biblioteca: math
 
